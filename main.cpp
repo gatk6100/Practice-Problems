@@ -20,7 +20,6 @@ double examScore;
 
 
 
-
 return EXIT_SUCCESS;
 
 }
